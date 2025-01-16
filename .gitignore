@@ -1,0 +1,46 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build directory
+dist/
+
+# Environment variable files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+*.log
+logs/
+
+# npm package-lock and yarn lock files
+package-lock.json
+yarn.lock
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional coverage reports (e.g., from Jest)
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Other directories to ignore (if applicable)
+build/
+
+# Debug and test files
+*.tgz
+*.test.js
+*.spec.js
+
+# SASS and CSS files
+*.css.map
